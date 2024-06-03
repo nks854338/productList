@@ -1,3 +1,7 @@
+https://fanciful-madeleine-707570.netlify.app
+
+https://nks854338.github.io/productList/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
